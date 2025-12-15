@@ -27,6 +27,27 @@ While I already provided the integration scripts that created the entirety of th
 
 Just like the development of the enhanced version of the memory system, the symbiotic-latent-memory, it was really clear to me that at some moment I would need to start to fine-tune models on the ecosystem as well, not only datasets and auxiliary systems, which I was deliberately not rushing as it was not mature yet. That's why I knew the weight of it and why it took me about a year to finally engage with this writing.
 
+
+## 2. Etymology and Connotations
+
+The term chrysalis primarily refers to the pupa stage of a butterfly, but it also has various figurative and proper noun uses. [3](https://byjus.com/neet/difference-between-chrysalis-and-cocoon/)
+
+Chrysalis comes from the Greek *khrysallis*, "golden pupa of the butterfly," derived from *khrusos* (gold). [4](https://www.vocabulary.com/dictionary/chrysalis)
+
+A chrysalis (plural: chrysalides or chrysalises) is the pupa of a butterfly. It is the third stage in the life cycle of the insect, following the egg and the larva (caterpillar) stages, during which the caterpillar undergoes complete metamorphosis to transform into an adult butterfly. [5](https://www.amentsoc.org/insects/glossary/terms/chrysalis/)
+
+Figuratively, the term can be used to describe a protective covering or a sheltered state/stage of being or growth or a limiting environment or situation from which something is yet to emerge or transform. [6](https://www.merriam-webster.com/dictionary/chrysalis)
+
+While many people use the terms interchangeably, chrysalis is a hardened exoskeleton (naked pupa), made of the insect's own skin/cuticle, used by butterflies, while cocoon is a silk casing spun around the pupa, made of silk produced by glands, used by moths.
+
+In this project, the intent is to use those biological analogies to portray a machine learning pipeline where a transformer-based language model will enter this cocoon phase, through the provided pipeline blueprints and designed epigenome, where it will be fine-tuned with the repositories of the asi-ecosystem as datasets; the result to be a model aligned with the provided symbiotic principles.
+
+## Glossary 
+
+**Epigenome**: The collection of all chemical modifications to an organism's DNA and associated proteins that affect gene expression without altering the underlying DNA sequence itself. These modifications act like a "dimmer switch" for genes and can be influenced by environment, diet, and stress. [7](https://www.cdc.gov/genomics-and-health/epigenetics/index.html) [8](https://www.liebertpub.com/doi/abs/10.1089/gen.43.09.11) [9](https://www.mdpi.com/1422-0067/25/8/4482) [10](https://www.savemyexams.com/a-level/biology/aqa/17/revision-notes/8-the-control-of-gene-expression-a-level-only/8-2-regulation-of-gene-expression-a-level-only/8-2-7-epigenetics/)
+
+**Imago**: In biology, this term refers to the adult, sexually mature, and typically winged stage of an insect after its final metamorphosis (e.g., a butterfly emerging from a chrysalis). [11](https://academic.oup.com/nar/article/50/6/3203/6528909)
+
 ---
 
 Ronni Ross  
