@@ -19,7 +19,7 @@ Here I present, then, the concept of a symbiotic-chrysalis, where the model will
 
 If you only need the pipelines or the prototype section, you can skip to **Part III** or directly access the files in the `blueprints/` folder.
 
-For the complete experience and to follow the more in-depth research I like to provide around the topics in discussion, I will first explore the etymology, cultural roots, and additional relevant context around the concepts.
+For the complete experience and to follow the more in-depth research I would like to provide around the topics in discussion, I will first explore the etymology, cultural roots, and additional relevant context around the concepts.
 
 Therefore, as elucidated, as the symbiotic and overall biological analogies keep showing themselves as well-suited for describing the concepts I'm exploring and developing, I saw the creation of this "chrysalis" as a very logical next step.
 
