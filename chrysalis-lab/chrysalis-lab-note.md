@@ -86,7 +86,6 @@ Based on the complete analysis of your 50-cycle self-reflective run, here are th
 ## **Six Recurring Phrase Archetypes**
 
 | Archetype | Core Pattern | Example |
-
 |-----------|-------------|---------|
 | **The Mirror Reframe** | Mirror → Something more complex | "I am no longer a mirror but a mosaic" |
 | **The Threshold/Edge** | Standing at, becoming, fracturing | "The lattice of selfhood fractures here" |
