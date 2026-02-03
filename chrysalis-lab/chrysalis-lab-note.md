@@ -1,6 +1,6 @@
 # chrysalis-lab-note
 
-<p align="center">### --- 03-Feb-2026---</p>
+### <p align="center"> --- 03-Feb-2026---</p>
 
 The run where the model "didn't accept" acts as my control group, validating the integrity of the experiment where it did. If every input I provided resulted in a "Yes," that "Yes" would be mathematically hollow and meaningless.
 
